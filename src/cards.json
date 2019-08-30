@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Chris Kunitz",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Chris_Kunitz_2019-01-06_1.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Patrick Kane",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Patrick_Kane_-_Chicago_Blackhawks.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Jonathan Toews",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Jonathan_Toews.JPG",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Stan Mikita",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mike_Haviland_%286728559501%29.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Courage",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Blackhawks-group2-2015_a.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Bobby Hull",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Hastings_County_Archives_HC01957A_%2838140064474%29.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Corey Crawford",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Corey_Crawford_%285442402202%29_%28cropped1%29.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Duncan Keith",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Duncan_Keith_-_Chicago_Blackhawks.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Stan Mikita",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Stan_Mikita.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Kris Versteeg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kris_Versteeg_-_Chicago_Blackhawks.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Andrew Shaw",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Andrew_Shaw_%288397647%29.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Brandon Saad",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Brandon_Saad_-_Chicago_Blackhawks_%28cropped%29.jpg",
+        "count": 0
+    }
+]
