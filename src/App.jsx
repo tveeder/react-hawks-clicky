@@ -52,6 +52,7 @@ class App extends Component {
         <p>Try to click on every Blackhawk Player once. Once you click a player the grid will shuffle.
 Try not to click the same Blackhawk Player twice or the game will start all over.  </p>
 
+
         {this.state.cards.map(card => (
           <Card
             clickCount={this.clickCount}
