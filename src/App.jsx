@@ -49,7 +49,7 @@ class App extends Component {
       <Wrapper>
         <Header score={this.state.score} highscore={this.state.highscore}>Blackhawks Clicky Game  </Header>
 
-        <p>Try to click on every Blackhawk Player once. Once you click a player the grid will shuffle.
+        <p>Try to click on every Blackhawk Player once. Once you click a player, the grid will shuffle.
 Try not to click the same Blackhawk Player twice or the game will start all over.  </p>
 
 
