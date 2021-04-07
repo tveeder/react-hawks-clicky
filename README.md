@@ -9,7 +9,7 @@ Use the following link to play:
   
   
   
-<img src="public/images/Screen Shot 2021-04-06 at 7.13.39 PM.png">
+<img src="public/images/screenshot.png">
 
 
 
